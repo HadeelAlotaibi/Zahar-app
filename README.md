@@ -1,16 +1,14 @@
 # zahar
 
-A new Flutter project.
+Description of the Zahar project : The application enables the owner of the Zahar market to upload their products into the internet so people can surf and purchase them.
 
-## Getting Started
+There are two types of users :
+1- Admin.
+2- Costumers.
 
-This project is a starting point for a Flutter application.
+The goal of this application is utilizing technology in aim for thriving business as costumers can browse and purchase the products Zahar's admin uplaods.
 
-A few resources to get you started if this is your first Flutter project:
+We used Android Studio as the IDE and Flutter as the framework for front-end development along with Xampp server and PHP language for the back-end part.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can run the app by launching the emulator on your pc through Android Studio and make sure to run the Xampp server before.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
